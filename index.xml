@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LaHay Apparel: a Website on LaHay Apparel</title>
+    <link>/</link>
+    <description>Recent content in LaHay Apparel: a Website on LaHay Apparel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2020 12:00:00 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choose Joy T-Shirts</title>
+      <link>/post/choose-joy/</link>
+      <pubDate>Wed, 18 Nov 2020 11:00:08 -0400</pubDate>
+      
+      <guid>/post/choose-joy/</guid>
+      <description>Available in a variety of colors (including pink!) and soft as silk fresh off the farm, these shirts are sure to bring a smile to anyone&amp;rsquo;s face. Maybe they will inspire even you to &amp;ldquo;Choose Joy&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Courageous T-Shirts</title>
+      <link>/post/courageous/</link>
+      <pubDate>Wed, 18 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>/post/courageous/</guid>
+      <description>These T-shirts are crafted using organic, radiation free cotton and printed using non fading dyes, so that you&amp;rsquo;ll be able to show them off for years to come!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your NameEmail AddressAn email address is required.Message</description>
+    </item>
+    
+  </channel>
+</rss>
